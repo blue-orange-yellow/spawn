@@ -1,5 +1,7 @@
 # Overview
 This tool provide generating uuid command.
+The existing `uuidgen` command does not provide an option to copy the result directly to the clipboard,  
+so I created this tool with that functionality.
 
 # install
 ```bash
